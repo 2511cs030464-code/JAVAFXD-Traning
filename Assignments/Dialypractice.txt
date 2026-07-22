@@ -1,0 +1,120 @@
+Daily practice
+
+Assignment - 01:
+
+1.https://www.codechef.com/practice/course/java/LPJAAS01/problems/LJAAS01
+2.https://www.codechef.com/practice/course/java/LPJAAS01/problems/LJAAS02
+3.https://www.codechef.com/practice/course/java/LPJAAS01/problems/LJAAS03
+4.https://www.codechef.com/practice/course/java/LPJAAS01/problems/LJAAS04
+5.https://www.codechef.com/practice/course/java/LPJAAS01/problems/LJAAS05
+6.https://www.codechef.com/practice/course/java/LPJAAS01/problems/LJAAS06
+7.https://www.codechef.com/practice/course/java/LPJAAS01/problems/LJAAS07
+8.https://www.codechef.com/practice/course/java/LPJAAS01/problems/LJAAS08
+9.https://www.codechef.com/practice/course/java/LPJAAS01/problems/LJAAS09
+10.https://www.codechef.com/practice/course/java/LPJAAS01/problems/LJAAS10
+
+Assignment - 02:
+
+https://www.codechef.com/practice/course/java/LPJAAS03/problems/LJAAS21
+https://www.codechef.com/practice/course/java/LPJAAS03/problems/LJAAS22
+https://www.codechef.com/practice/course/java/LPJAAS03/problems/LJAAS23
+https://www.codechef.com/practice/course/java/LPJAAS03/problems/LJAAS24
+https://www.codechef.com/practice/course/java/LPJAAS03/problems/LJAAS25
+https://www.codechef.com/practice/course/java/LPJAAS03/problems/LJAAS26
+https://www.codechef.com/practice/course/java/LPJAAS03/problems/LJAAS27
+https://www.codechef.com/practice/course/java/LPJAAS03/problems/LJAAS28
+https://www.codechef.com/practice/course/java/LPJAAS03/problems/LJAAS29
+https://www.codechef.com/practice/course/java/LPJAAS03/problems/LJAAS30
+
+
+Assignment - 03:
+
+1.https://www.codechef.com/practice/course/java/LPJAAS04/problems/LJAAS31
+2.https://www.codechef.com/practice/course/java/LPJAAS04/problems/LJAAS32
+3.https://www.codechef.com/practice/course/java/LPJAAS04/problems/LJAAS33
+4.https://www.codechef.com/practice/course/java/LPJAAS04/problems/LJAAS34
+5.https://www.codechef.com/practice/course/java/LPJAAS04/problems/LJAAS35
+6.https://www.codechef.com/practice/course/java/LPJAAS04/problems/LJAAS36
+7.https://www.codechef.com/practice/course/java/LPJAAS04/problems/LJAAS37
+8.https://www.codechef.com/practice/course/java/LPJAAS04/problems/LJAAS38
+9.https://www.codechef.com/practice/course/java/LPJAAS04/problems/LJAAS39
+10.https://www.codechef.com/practice/course/java/LPJAAS04/problems/LJAAS40
+
+
+
+
+Assignment - 04:
+
+1.https://www.codechef.com/practice/course/java/LPJAAS05/problems/LJAAS41
+2.https://www.codechef.com/practice/course/java/LPJAAS05/problems/LJAAS42
+3.https://www.codechef.com/practice/course/java/LPJAAS05/problems/LJAAS43
+4.https://www.codechef.com/practice/course/java/LPJAAS05/problems/LJAAS44
+5.https://www.codechef.com/practice/course/java/LPJAAS05/problems/LJAAS45
+6.https://www.codechef.com/practice/course/java/LPJAAS05/problems/LJAAS46
+7.https://www.codechef.com/practice/course/java/LPJAAS05/problems/LJAAS47
+8.https://www.codechef.com/practice/course/java/LPJAAS05/problems/LJAAS48
+9.https://www.codechef.com/practice/course/java/LPJAAS05/problems/LJAAS49
+10.https://www.codechef.com/practice/course/java/LPJAAS05/problems/LJAAS50
+
+
+Assignment - 05:
+
+1.https://www.codechef.com/practice/course/java/PJA01/problems/JPRACMCQ1
+2.https://www.codechef.com/practice/course/java/PJA01/problems/START01
+3.https://www.codechef.com/practice/course/java/PJA01/problems/JPRACREARR1
+4.https://www.codechef.com/practice/course/java/PJA01/problems/JPRACREAR1A
+5.https://www.codechef.com/practice/course/java/PJA01/problems/INSTNOODLE
+6.https://www.codechef.com/practice/course/java/PJA01/problems/JPRACMCQ4
+7.https://www.codechef.com/practice/course/java/PJA02/problems/JPRACMCQ2
+8.https://www.codechef.com/practice/course/java/PJA02/problems/LEARNSQL
+9.https://www.codechef.com/practice/course/java/PJA02/problems/JPRACMCQ3
+10.https://www.codechef.com/practice/course/java/PJA02/problems/PARKINGCHARG
+
+
+
+Assignment - 06:
+
+https://www.codechef.com/practice/course/java/PJA03/problems/JPRACMCQ5
+https://www.codechef.com/practice/course/java/LPJAAS06/problems/LJAAS52
+ https://www.codechef.com/practice/course/java/LPJAAS06/problems/LJAAS53
+ https://www.codechef.com/practice/course/java/LPJAAS06/problems/LJAAS54
+ https://www.codechef.com/practice/course/java/LPJAAS06/problems/LJAAS55
+ https://www.codechef.com/practice/course/java/LPJAAS06/problems/LJAAS56
+ https://www.codechef.com/practice/course/java/LPJAAS06/problems/LJAAS57
+ https://www.codechef.com/practice/course/java/LPJAAS06/problems/LJAAS58
+ https://www.codechef.com/practice/course/java/LPJAAS06/problems/LJAAS59
+https://www.codechef.com/practice/course/java/LPJAAS06/problems/LJAAS60
+https://www.codechef.com/practice/course/java/LPJAAS07/problems/LJAAS63
+https://www.codechef.com/practice/course/java/LPJAAS07/problems/LJAAS64 
+https://www.codechef.com/practice/course/java/LPJAAS07/problems/LJAAS65
+https://www.codechef.com/practice/course/java/LPJAAS07/problems/LJAAS66
+https://www.codechef.com/practice/course/java/LPJAAS07/problems/LJAAS67
+https://www.codechef.com/practice/course/java/LPJAAS07/problems/LJAAS68
+https://www.codechef.com/practice/course/java/LPJAAS07/problems/LJAAS69
+https://www.codechef.com/practice/course/java/LPJAAS07/problems/LJAAS70
+
+
+
+Assignment - 07:
+
+https://www.codechef.com/practice/course/java/PJA03/problems/JPRACMCQ5
+https://www.codechef.com/practice/course/java/PJA03/problems/CBSPEED
+https://www.codechef.com/practice/course/java/PJA03/problems/JPRACMCQ6
+https://www.codechef.com/practice/course/java/PJA03/problems/MARKSTW
+https://www.codechef.com/practice/course/java/PJA03/problems/JPRACMCQ9
+https://www.codechef.com/practice/course/java/PJA03/problems/ONEFULPAIRS
+https://www.codechef.com/practice/course/java/PJA04/problems/JPRACREARR2
+https://www.codechef.com/practice/course/java/PJA04/problems/MY1STCONTEST
+https://www.codechef.com/practice/course/java/PJA04/problems/JPRACMCQ8
+https://www.codechef.com/practice/course/java/PJA04/problems/BLACKCEL
+
+
+
+
+
+
+
+
+
+
+
